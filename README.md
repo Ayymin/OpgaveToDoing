@@ -4,4 +4,4 @@ The purpose was to put multiple things learned from modules in SwiftUI into prac
 This regards locationmanaging, persistence using SwiftData, PhotoPicking and more. 
 
 A user can customize their profile picture, create ToDos using a list. It will also 
-show the location of where they created this ToDo, as well as a timestamp. 
+show the location of where they created this ToDo, as well as a timestamp and allows you to edit them as well.
